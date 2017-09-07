@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "That Original Macintosh""
-date:   2017-09-07 10:37:10 +0000
+title:  "That Original Macintosh."
+date:   2017-09-07 06:37:11 -0400
 ---
 
 
